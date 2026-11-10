@@ -103,7 +103,7 @@
 			compatible = "xptek,xpt2046";
 			x-max = <240>;
 			y-max = <320>;
-			swap-xy;
+			swap-xy = <1>;
 			mirror-y;
 		};
     };
